@@ -4,7 +4,6 @@
 #clear workspace
 rm(list = ls())
 
-setwd("C:/Users/User/OneDrive/Desktop/UNI MODS/Y1S1/DSE1101/Project")
 #libraries
 library(readr)
 library(pls) 
