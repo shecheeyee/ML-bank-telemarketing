@@ -1,5 +1,4 @@
-#DSE INDIVIDUAL ASSIGNMENT
-#SHE CHEE YEE A0240383L
+
 
 #clear workspace
 rm(list = ls())
